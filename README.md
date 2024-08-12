@@ -11,3 +11,8 @@
 - I'm just starting to learn Python, but I'm already dreaming of big projects
 - Main career - operations management of retail processes
 - I devote my free time to my dog, friends and family, guitar, and bicycle
+
+
+----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristina-Uryevna&show_icons=true&theme=radical)
